@@ -7,4 +7,4 @@ E.g., query = [(:amp, :Si), (:plag, :wt), (:amp, :Ts), (:g, :alm), (:g, :gr), (:
 
 Possible variables include ion apfu, endmember fraction, vol%, wt%, melt anhydrous oxide%, sites (e.g., xFeM2 for cpx), XFe3+, amphibole vectors (Ts, Ed, Gln), Xjd (cpx), XFe (epidote), Xpa (muscovite). Further details can be found in /src/Fn_MAGEMin_read.jl
 
-The outputs of this script is compatible with the inversion software [LinaForma](https://github.com/QuantPT/LinaForma). 
+The outputs of this script are compatible with the inversion software [LinaForma](https://github.com/QuantPT/LinaForma). 
